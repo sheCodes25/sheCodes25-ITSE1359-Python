@@ -1,0 +1,12 @@
+Python doctest using a .txt file to find simulated "correct" answers by parsing the file and using python's integrated interpreter prompt as a queue for the docstring 
+The below answers are intentionally incorrect as requested by the assignment.
+
+
+
+
+>>> from Proj04 import getLen
+>>> 'I certify that this program is my own work and is not the work of others. I agree not to share my solution with others. Petra Unglaub-Maycock'
+
+>>> getLen(['a','b','c'])
+4
+	
